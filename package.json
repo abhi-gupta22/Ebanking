@@ -1,0 +1,22 @@
+{
+  "name": "ebanking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi-gupta22/Ebanking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi-gupta22/Ebanking/issues"
+  },
+  "homepage": "https://github.com/abhi-gupta22/Ebanking#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
